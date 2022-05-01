@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="Text_firstname">Ishan</string>
+    <string name="text_lastname">Maharjan</string>
+    <string name="text_email">xyz@gmail.com</string>
+    <string name="text_signup">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
